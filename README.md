@@ -1,1 +1,1 @@
-# Cost-Of-Crime
+# CostForCrime informs the public of the consequences of committing certain crimes in California.
